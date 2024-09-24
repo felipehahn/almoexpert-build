@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/",
+    "/categorias",
+    "/locais",
+    "/marcas",
+    "/medidas"
+  ]
+}
