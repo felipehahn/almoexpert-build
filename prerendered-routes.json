@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/",
+    "/cadastro-elemento",
+    "/categorias",
+    "/elementos",
+    "/locais",
+    "/marcas",
+    "/medidas"
+  ]
+}
